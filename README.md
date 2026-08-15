@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAi/deku-anime.gif" width="140" alt="deku"/>
+<img src="https://media1.tenor.com/m/SU5e-8GgbfQAAAAd/deku-mha.gif" width="140" alt="deku"/>
 
 <br>
 
@@ -15,7 +15,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=10b981&section=header"/>
 
 <div align="center">
-<img src="https://media.tenor.com/rDX3jn6QSqcAAAAi/deku-training.gif" width="260" alt="deku training"/>
+<img src="https://media1.tenor.com/m/_Vf3TmUu4QcAAAAd/deku-deku-blue.gif" width="260" alt="deku focused"/>
 </div>
 
 <br>
@@ -34,7 +34,7 @@ AI Team Lead @ Viswam AI
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Vigneshrdy/Vigneshrdy/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
+<img src="https://raw.githubusercontent.com/Vigneshrdy/Vigneshrdy/gh-pages/github-contribution-grid-snake-dark.svg" alt="snake animation" width="90%"/>
 
 </div>
 
@@ -42,7 +42,7 @@ AI Team Lead @ Viswam AI
 
 <div align="center">
 
-<img src="https://media.tenor.com/8m-sr_msY9UAAAAi/midoriya-smile.gif" width="120" alt="deku smile"/>
+<img src="https://media1.tenor.com/m/g6xLGxI72mkAAAAd/izuku-midoriya-deku.gif" width="120" alt="deku smile"/>
 
 <i>"I can't just sit back and do nothing. I've got to move forward."</i>
 
