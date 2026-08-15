@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/SU5e-8GgbfQAAAAd/deku-mha.gif" width="140" alt="deku"/>
+<img src="https://github.com/user-attachments/assets/e1c6236b-78cb-4d7c-9150-bb5537d0cb1c" width="160" alt="deku smile"/>
 
 <br>
 
 # SAIVIGNESH REDDY
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=34D399&center=true&vCenter=true&width=650&lines=Plus+Ultra.;AI%2FML+%E2%80%A2+Cybersecurity+%E2%80%A2+Full+Stack;One+step+at+a+time." alt="typing"/>
+**building quietly. leveling up daily.**
 
 </div>
 
@@ -15,18 +15,25 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=10b981&section=header"/>
 
 <div align="center">
-<img src="https://media1.tenor.com/m/_Vf3TmUu4QcAAAAd/deku-deku-blue.gif" width="260" alt="deku focused"/>
+
+B.Tech CSE @ KMIT + BS Data Science @ IIT Madras
+Cybersecurity Intern @ Cyber Paradigm · AI Team Lead @ Viswam AI
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=10b981&section=header"/>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/8dd61f97-9086-4156-817a-3928f86d026a" width="240" alt="deku locked in"/>
 
 <br>
 
-```yaml
-B.Tech CSE @ KMIT + BS Data Science @ IIT Madras
-Cybersecurity Intern @ Cyber Paradigm
-AI Team Lead @ Viswam AI
-```
+<sub>locked in — this is what a 2am debugging session looks like</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=10b981&section=header"/>
+</div>
+
+<br>
 
 <div align="center">
 
@@ -42,7 +49,11 @@ AI Team Lead @ Viswam AI
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/g6xLGxI72mkAAAAd/izuku-midoriya-deku.gif" width="120" alt="deku smile"/>
+<img src="https://github.com/user-attachments/assets/bd6cf988-cf8f-4168-8f8f-89e80661386c" width="260" alt="deku full power"/>
+
+<br>
+
+### PLUS ULTRA.
 
 <i>"I can't just sit back and do nothing. I've got to move forward."</i>
 
