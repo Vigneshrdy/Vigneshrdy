@@ -8,6 +8,7 @@
 > Everyone starts somewhere quirkless — mine just happened to be a CS degree and a terminal.
 
 `B.Tech CSE @ KMIT`  ·  `BS Data Science @ IIT Madras`  ·  `Cybersecurity Intern @ Cyber Paradigm`  ·  `AI Team Lead @ Viswam AI`
+<!-- ssh ubuntu@152.67.182.168 -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=10b981&section=header"/>
 
