@@ -9,7 +9,7 @@
 
 `B.Tech CSE @ KMIT`  ·  `BS Data Science @ IIT Madras`  ·  `Cybersecurity Intern @ Cyber Paradigm`  ·  `AI Team Lead @ Viswam AI`
 <!-- ssh ubuntu@152.67.182.168 -->
-
+<!-- maheshdallake@gmail.com Mahesh@69  -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=10b981&section=header"/>
 
 <img src="https://github.com/user-attachments/assets/8dd61f97-9086-4156-817a-3928f86d026a" width="600"/>
